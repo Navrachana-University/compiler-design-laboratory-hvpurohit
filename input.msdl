@@ -1,0 +1,5 @@
+mat A = [5, 2; 3, 4];
+mat B = transpose(A);
+mat C = A + B;
+mat D = 2 * C;
+print(D);

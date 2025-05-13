@@ -1,0 +1,3 @@
+mat A = [1, 2; 3, 4];
+mat B = A * 2;
+print(B);
